@@ -1,15 +1,15 @@
-"D:\Github\RTOS-Labs\Lab1\startup_ewarm.c"
+"D:\IAR Projects\RTOS\Lab1\startup_ewarm.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-D:\Github\RTOS-Labs\Lab1\Debug\BrowseInfo\startup_ewarm.pbi.dep
+D:\IAR Projects\RTOS\Lab1\Debug\BrowseInfo\startup_ewarm.pbi.dep
 -o
-D:\Github\RTOS-Labs\Lab1\Debug\BrowseInfo\startup_ewarm.pbi
+D:\IAR Projects\RTOS\Lab1\Debug\BrowseInfo\startup_ewarm.pbi
 -I
-D:\Github\RTOS-Labs\Lab1
+D:\IAR Projects\RTOS\Lab1
 -I
 C:\ti\TivaWare_C_Series-2.2.0.295
 -I

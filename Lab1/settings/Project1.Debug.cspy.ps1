@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "D:\Github\RTOS-Labs\Lab1\settings\Project1.Debug.general.xcl" --backend -f "D:\Github\RTOS-Labs\Lab1\settings\Project1.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "D:\IAR Projects\RTOS\Lab1\settings\Project1.Debug.general.xcl" --backend -f "D:\IAR Projects\RTOS\Lab1\settings\Project1.Debug.driver.xcl" 
 }
 else
 {
-& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "D:\Github\RTOS-Labs\Lab1\settings\Project1.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\Github\RTOS-Labs\Lab1\settings\Project1.Debug.driver.xcl" 
+& "C:\Program Files\IAR Systems\Embedded Workbench 9.1\common\bin\cspybat" -f "D:\IAR Projects\RTOS\Lab1\settings\Project1.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\IAR Projects\RTOS\Lab1\settings\Project1.Debug.driver.xcl" 
 }
