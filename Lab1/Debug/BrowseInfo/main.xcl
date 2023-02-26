@@ -1,15 +1,15 @@
-"D:\IAR Projects\RTOS\Lab1\main.c"
+"D:\Github\RTOS-Labs\Lab1\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-D:\IAR Projects\RTOS\Lab1\Debug\BrowseInfo\main.pbi.dep
+D:\Github\RTOS-Labs\Lab1\Debug\BrowseInfo\main.pbi.dep
 -o
-D:\IAR Projects\RTOS\Lab1\Debug\BrowseInfo\main.pbi
+D:\Github\RTOS-Labs\Lab1\Debug\BrowseInfo\main.pbi
 -I
-D:\IAR Projects\RTOS\Lab1
+D:\Github\RTOS-Labs\Lab1
 -I
 C:\ti\TivaWare_C_Series-2.2.0.295
 -I

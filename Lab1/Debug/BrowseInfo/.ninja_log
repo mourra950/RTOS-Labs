@@ -333,3 +333,9 @@
 1	104	6985459364710357	D:/IAR Projects/RTOS/Lab1/Debug/BrowseInfo/main.pbi	ce6b6dc478d2e239
 107	368	6985459367402283	D:/IAR Projects/RTOS/Lab1/Debug/BrowseInfo/Project1.pbd	885b3db6b23d4ac2
 371	2067	6985459384172937	D:/IAR Projects/RTOS/Lab1/Debug/BrowseInfo/Project1.pbw	e73b9cb0caa04938
+27	293	6989744110000000	D:/Github/RTOS-Labs/Lab1/Debug/BrowseInfo/startup_ewarm.xcl	2d97243729ba72a0
+56	317	6989744110000000	D:/Github/RTOS-Labs/Lab1/Debug/BrowseInfo/main.xcl	aed0ae43e7ef8e8b
+298	358	6989744115737610	D:/Github/RTOS-Labs/Lab1/Debug/BrowseInfo/startup_ewarm.pbi	b07fc47af569b171
+323	407	6989744116237647	D:/Github/RTOS-Labs/Lab1/Debug/BrowseInfo/main.pbi	95ae1a312adae583
+411	459	6989744116837618	D:/Github/RTOS-Labs/Lab1/Debug/BrowseInfo/Project1.pbd	a37e93d4ae50f3ff
+463	1820	6989744130112961	D:/Github/RTOS-Labs/Lab1/Debug/BrowseInfo/Project1.pbw	fc845bf8e27b5d41
