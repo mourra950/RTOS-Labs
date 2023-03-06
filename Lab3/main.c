@@ -10,13 +10,14 @@
 
 
 volatile uint32_t tick_ctr=0;
+int flag=0;
 void SysTickHandler(void);
 
 
 void SysTickHandler(void)
 {
   tick_ctr++;
-  
+  flag=0;
   
 }
 
@@ -66,16 +67,17 @@ int main()
   PortF_init();
   Systick_init();
   //Red
-  task t1= {5000,task1};
-  task t2= {10000,task2};
-  task t3= {20000,task3};
+  task t1= {5000,4,task1};
+  task t2= {5000,1,task2};
+  task t3= {5000,3,task3};
   createTask(t1);
   createTask(t2);
   createTask(t3);
   
-  
+  while(1)
+  {
   scheduling();
-  
+  }
 }
 
 

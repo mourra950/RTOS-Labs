@@ -1,15 +1,15 @@
-"D:\IAR Projects\RTOS\Lab3\sched.c"
+"D:\Term 8\Rtos\Labs\RTOS-Labs\Lab3\sched.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -funsigned-char
 -MD
 -MF
-D:\IAR Projects\RTOS\Lab3\Debug\BrowseInfo\sched.pbi.dep
+D:\Term 8\Rtos\Labs\RTOS-Labs\Lab3\Debug\BrowseInfo\sched.pbi.dep
 -o
-D:\IAR Projects\RTOS\Lab3\Debug\BrowseInfo\sched.pbi
+D:\Term 8\Rtos\Labs\RTOS-Labs\Lab3\Debug\BrowseInfo\sched.pbi
 -I
-D:\IAR Projects\RTOS\Lab3
+D:\Term 8\Rtos\Labs\RTOS-Labs\Lab3
 -I
 C:\ti\TivaWare_C_Series-2.2.0.295
 -I
